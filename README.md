@@ -6,18 +6,11 @@ XT Viewer is a versatile Android application designed to provide users with a se
 
 - **File Viewing**: View Markdown files (.md) and other text-based files directly on your Android device.
 - **Simple and Intuitive Interface**: XT Viewer offers a user-friendly interface for easy navigation and reading.
-- **Syntax Highlighting**: Enjoy syntax highlighting for Markdown syntax elements and other supported file formats, enhancing readability.
-- **Customization Options**: Customize the viewing experience with options to adjust font size, theme, and more.
-- **File Management**: Easily manage your files, including opening files from local storage and viewing recent files.
-- **Share and Export**: Share files with others or export them in various formats for further use.
 
 ## How to Use
 
-1. **Install XT Viewer**: Download and install XT Viewer from the Google Play Store.
-2. **Open Text File**: Launch XT Viewer and open the text file you want to view.
-3. **Explore and Read**: Navigate through the file using intuitive controls and read the content comfortably.
-4. **Customize Viewing Settings**: Customize the viewing experience according to your preferences, adjusting font size, theme, etc.
-5. **Share or Export**: Share the file with others or export it in different formats for your convenience.
+1. **Install XT Viewer**: Download and install XT Viewer.
+2. **Open Text File**: Launch XT Viewer and open the .txt/.md file you want to view.
 
 ## Contribution
 
